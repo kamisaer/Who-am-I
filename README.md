@@ -11,6 +11,4 @@ flowchart LR;
 	粗箭头==>test;
 	双竖线加标签---|"||加标签"| test;
 ```
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
